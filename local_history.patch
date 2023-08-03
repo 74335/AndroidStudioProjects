@@ -1,0 +1,16 @@
+Index: MyApplication/.idea/dictionaries/gogol.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MyApplication/.idea/dictionaries/gogol.xml b/MyApplication/.idea/dictionaries/gogol.xml
+--- a/MyApplication/.idea/dictionaries/gogol.xml	(date 1690483930815)
++++ b/MyApplication/.idea/dictionaries/gogol.xml	
+@@ -1,3 +1,3 @@
+ <component name="ProjectDictionaryState">
+-  <dictionary name="gogol" /><![CDATA[
+-]]>></component
+\ No newline at end of file
++  <dictionary name="gogol" />
++</component>
+\ No newline at end of file
